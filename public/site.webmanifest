@@ -1,0 +1,19 @@
+{
+  "name": "Abloom · 唤青",
+  "short_name": "Abloom",
+  "description": "Abloom · 唤青的个人主页，记录作品、技艺、开源项目、博客与当下状态。",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#f4f1ea",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

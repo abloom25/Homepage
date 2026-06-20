@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Abloom · 唤青</title>
+  <desc id="desc">我在时间的缝隙里缝梦。</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f7f3ea"/>
+      <stop offset="1" stop-color="#e8eee9"/>
+    </linearGradient>
+    <radialGradient id="teal" cx="18%" cy="28%" r="55%">
+      <stop offset="0" stop-color="#6f9994" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#6f9994" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="red" cx="84%" cy="76%" r="50%">
+      <stop offset="0" stop-color="#c2563e" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#c2563e" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#paper)"/>
+  <rect width="1200" height="630" fill="url(#teal)"/>
+  <rect width="1200" height="630" fill="url(#red)"/>
+  <path d="M96 96h1008v438H96z" fill="none" stroke="#1a1a1a" stroke-opacity="0.16" stroke-width="2"/>
+  <circle cx="148" cy="148" r="30" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+  <text x="148" y="161" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-style="italic" text-anchor="middle" fill="#c2563e">A</text>
+  <text x="148" y="252" font-family="Georgia, 'Times New Roman', serif" font-size="118" font-weight="600" fill="#1a1a1a">Abloom</text>
+  <text x="154" y="330" font-family="'Noto Serif SC', 'Songti SC', serif" font-size="54" font-weight="500" fill="#3a5a5a">唤青</text>
+  <text x="154" y="410" font-family="'Noto Serif SC', 'Songti SC', serif" font-size="34" fill="#4f4a43">我在时间的缝隙里缝梦。</text>
+  <text x="154" y="464" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-style="italic" fill="#8a8275">Weaving dreams in the crevices of time.</text>
+  <text x="154" y="514" font-family="'JetBrains Mono', Consolas, monospace" font-size="22" fill="#c2563e">abloom.site · github.com/abloom25</text>
+  <text x="1040" y="500" font-family="Georgia, 'Times New Roman', serif" font-size="156" font-weight="600" fill="none" stroke="#1a1a1a" stroke-opacity="0.12">A</text>
+</svg>
